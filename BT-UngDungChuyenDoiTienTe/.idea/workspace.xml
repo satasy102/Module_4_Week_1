@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BT-UngDungChuyenDoiTienTe:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfeb0060-c4c5-4d90-93e2-8ede7230b25a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/BT-UngDungChuyenDoiTienTe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/codegym/controllers/CurrencyConversionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/classes/controllers/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/BT-UngDungChuyenDoiTienTe/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/src/main/java/com/chanhtin/controllers/DictionaryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/src/main/webapp/WEB-INF/dispacher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-UngDungTuDien/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-SpringGreeting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/views/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/TH-UngDungQuanLyDanhSachKhachHang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/artifacts/Test_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/java/com/demo/jstl/AppContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/java/com/demo/jstl/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/java/com/demo/jstl/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/java/com/demo/jstl/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/resources/WEB-INF/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/src/main/resources/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/classes/com/demo/jstl/AppContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/classes/com/demo/jstl/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/classes/com/demo/jstl/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/classes/com/demo/jstl/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/demo/jstl/AppContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/demo/jstl/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/demo/jstl/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/com/demo/jstl/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.22.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/Test/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/artifacts/Gran_Demonstration_main_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/app-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/MvcConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/controllers/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/service/CustomerServiceFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/service/impl/SimpleCustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/classes/cg/wbd/grandemonstration/servlet/CustomerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/customers/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/customers/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-aop-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-beans-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-context-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-core-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-expression-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-jcl-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-web-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/lib/spring-webmvc-5.2.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/artifacts/Gran_Demonstration_main_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/out/production/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/src/main/java/cg/wbd/grandemonstration/MvcConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/src/main/java/cg/wbd/grandemonstration/controllers/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/src/main/webapp/WEB-INF/app-conf.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/src/main/webapp/WEB-INF/customers/info.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/cms/src/main/webapp/WEB-INF/customers/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/libraries/Spring_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/aopalliance-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-aop-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-aspects-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-beans-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-context-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-context-support-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-core-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-expression-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-instrument-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-jdbc-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-jms-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-messaging-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-orm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-oxm-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-test-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/lib/spring-tx-5.2.3.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/src/main/java/jstl/AppContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/src/main/java/jstl/AppInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/src/main/java/jstl/WebMvcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/src/main/java/jstl/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/classes/jstl/AppContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/classes/jstl/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/classes/jstl/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/classes/jstl/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/jstl/AppContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/jstl/AppInitializer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/jstl/WebMvcConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/classes/jstl/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.2.17.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.4.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.22.0-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/target/springmvc5-hibernate5-jsp-mysql-example-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/web/WEB-INF/views/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/untitled/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/classes/controllers/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/classes/controllers/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/views/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/views/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/out/artifacts/TH_SpringGreeting_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/src/main/java/controllers/GreetingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/src/main/java/controllers/GreetingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/target/classes/controllers/GreetingController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/target/classes/controllers/GreetingController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/views/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TH-SpringGreeting/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/TH-UngDungQuanLyDanhSachKhachHang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/out/artifacts/TH_UngDungQuanLyDanhSachKhachHang_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/src/main/java/controllers/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/web/WEB-INF/views/customers/list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TH-UngDungQuanLyDanhSachKhachHang/web/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Hoc_lap_trinh\IDEA IntelliJ\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1j4wDu2ffH5zcA9qJEs0KOEMqQb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Hoc_lap_trinh\Module_4\Week_1\BT-UngDungChuyenDoiTienTe\src\main\webapp\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/convert" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="BT-UngDungChuyenDoiTienTe:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BT-UngDungChuyenDoiTienTe" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50038" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BT-UngDungChuyenDoiTienTe:war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfeb0060-c4c5-4d90-93e2-8ede7230b25a" name="Default Changelist" comment="" />
+      <created>1603076557294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603076557294</updated>
+      <workItem from="1603076558568" duration="1904000" />
+      <workItem from="1603082448281" duration="61000" />
+      <workItem from="1603082546033" duration="70000" />
+      <workItem from="1603082649528" duration="17000" />
+      <workItem from="1603082701022" duration="493000" />
+      <workItem from="1603083243307" duration="3769000" />
+      <workItem from="1603090873614" duration="596000" />
+      <workItem from="1603156828248" duration="267000" />
+      <workItem from="1603165576849" duration="741000" />
+      <workItem from="1603168492931" duration="112000" />
+      <workItem from="1603168609555" duration="67000" />
+      <workItem from="1603168679362" duration="38000" />
+      <workItem from="1603168785517" duration="177000" />
+      <workItem from="1603169031444" duration="50000" />
+      <workItem from="1603169100935" duration="277000" />
+      <workItem from="1603170543883" duration="54000" />
+      <workItem from="1603170642939" duration="597000" />
+      <workItem from="1603176087142" duration="1528000" />
+      <workItem from="1603242050159" duration="2776000" />
+      <workItem from="1603245572050" duration="1921000" />
+      <workItem from="1603247796662" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="0" key="#Project_Structure" timestamp="1603176122464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="162" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1603176122464" />
+    <state x="460" y="241" key="#Tomcat_Server" timestamp="1603176156595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="241" key="#Tomcat_Server/0.0.1366.728@0.0.1366.728" timestamp="1603176156595" />
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603244366046">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1603244366046" />
+    <state x="487" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1603242812964">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1603242812964" />
+    <state x="310" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603076684424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="310" y="52" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1603076684424" />
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603242924406">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1603242924406" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1603176155160">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603176155160" />
+    <state width="1087" height="423" key="GridCell.Tab.0.bottom" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.0.center" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.0.left" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.0.right" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.1.bottom" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.1.center" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.1.left" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.1.right" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.2.bottom" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.2.center" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.2.left" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state width="1087" height="423" key="GridCell.Tab.2.right" timestamp="1603244852154">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1087" height="423" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1603244852154" />
+    <state x="212" y="18" key="Maven.ArtifactSearchDialog" timestamp="1603176907432">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="212" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1603176907432" />
+    <state x="183" y="0" key="SettingsEditor" timestamp="1603168949410">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603168949410" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1603247499978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1603247499978" />
+  </component>
+</project>
