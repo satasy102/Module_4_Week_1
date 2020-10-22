@@ -10,9 +10,7 @@
     <button type="submit" name="calculation" value="*">Multiplication(x)</button>
     <button type="submit" name="calculation" value="/">Division(/)</button>
 </form>
-<c:if test="${message}!=null">
-    <p>${message}</p>
-</c:if>
+<p>${message}</p>
 <h4><strong>${result}</strong></h4>
 </body>
 </html>

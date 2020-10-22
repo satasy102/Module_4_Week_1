@@ -30,13 +30,14 @@ public class CalculatorController {
                     result=number1-number2;
                     model.addAttribute("result",result);
                     break;
-                case "x":
+                case "*":
                     result=number1*number2;
                     model.addAttribute("result",result);
                     break;
                 case "/":
                     if(number2==0){
-                        model.addAttribute("message","Khong the chia cho 0");
+                        String message="Khong the chia cho 0";
+                        model.addAttribute("message",message);
                     } else {
                         result = number1 / number2;
                         model.addAttribute("result",result);
